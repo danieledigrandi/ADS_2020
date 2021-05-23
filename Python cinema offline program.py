@@ -14,8 +14,6 @@ Example of input format:
 1 2 4 2 1 0 1 3
 
 In the last line (group size), each number is separated by a space!
-
-/Users/danieledigrandi/PycharmProjects/gurobi/Online_test_instances/OnlineA16.txt
 """
 
 def get_input_from_file():
